@@ -4,8 +4,8 @@ end
 
 def my_hash
   kevinhash{
-    :apples => "bananas"
-    :ginger => "scallions"
+    :apples => "bananas",
+    :ginger => "scallions",
     :sci_fi => "fantasy"
   }
 end
