@@ -9,19 +9,19 @@ def my_hash
 end
 
 def pioneer
-  pioneerhash{
+  pioneerhash={
     :name => 'Grace Hopper'
   }
 end
 
 def id_generator
-  idhash{
+  idhash={
     :id => 3
   }
 end
 
 def my_hash_creator(key, value)
-  myhash{
+  myhash={
     "#{key}" => value
   }
 end
